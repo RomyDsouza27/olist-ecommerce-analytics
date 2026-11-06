@@ -284,7 +284,7 @@ The Power BI report contains three analytical pages.
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/RomyDsouza27/olist-ecommerce-analytics.git
 cd olist-ecommerce-analytics
 ```
 
